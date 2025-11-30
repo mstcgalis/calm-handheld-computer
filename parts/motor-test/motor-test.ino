@@ -1,4 +1,4 @@
-const int motorPin = D8; 
+const int motorPin = D9;
 
 void setup() {
   pinMode(motorPin, OUTPUT);
